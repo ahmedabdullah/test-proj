@@ -1,8 +1,8 @@
 version: 0.0
 os: linux
-#files:
-#  - source: /
-#    destination: /home/ubuntu/code
+files:
+  - source: /
+    destination: /home/ubuntu/code
 #hooks:
 #  BeforeInstall:
 #    - location: scripts/install_dependencies.sh
